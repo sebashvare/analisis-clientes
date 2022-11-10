@@ -15,3 +15,10 @@ Se requiere realizar una evaluación más detallada a cada uno, teniendo en cuen
 
 # Archivo BATCH
 Lo utilizo para que el desarrollo se puede ejecutar.
+
+# Visualizacion
+> Seleccionamos el mes a Evaluar y ejecutamos.
+![image](https://user-images.githubusercontent.com/20642907/201192256-5422a201-3ed5-4956-a9fa-4f5dbef69136.png)
+
+Una vez termine y previamente damos la ruta para guardar el archivo tenemos el resultado del analisis.
+![image](https://user-images.githubusercontent.com/20642907/201193059-17353898-ed39-46f7-8bb2-fc938063543b.png)
