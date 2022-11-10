@@ -12,3 +12,6 @@ regulado de la compañía que presentan bajo consumo en el periodo evaluado.
 # Observación
 > De esta forma podemos encontrar o determinar que clientes en un principio su consumo disminuyo por algún motivo para el mes en evaluación. 
 Se requiere realizar una evaluación más detallada a cada uno, teniendo en cuenta otro tipo de variables (Mercado, estacionalidad, Agenda de lectura).
+
+# Archivo BATCH
+Lo utilizo para que el desarrollo se puede ejecutar.
